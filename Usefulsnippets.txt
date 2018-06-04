@@ -1,0 +1,15 @@
+https://imgur.com/JvunTM4
+da96ef27fe192e9049930c41bf
+4121611
+
+Objective: 
+Build a bot that scrapes either
+https://www.reddit.com/r/doggos/
+OR
+https://www.reddit.com/r/rarepuppers/
+To send a refreshing image to a chat group upon request. 
+
+Where: GroupMe, hosted on: ????
+When: In a week 
+
+How do I get scrape reddit? ¯\_(ツ)_/¯
