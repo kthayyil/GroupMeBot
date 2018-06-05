@@ -9,7 +9,7 @@ OR
 https://www.reddit.com/r/rarepuppers/
 To send a refreshing image to a chat group upon request. 
 
-Where: GroupMe, hosted on: ????
+Where: GroupMe, hosted on: Heroku
 When: In a week 
 
 How do I get scrape reddit? ¯\_(ツ)_/¯
